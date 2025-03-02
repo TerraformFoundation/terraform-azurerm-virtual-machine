@@ -1,10 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/Azure/terraform-azurerm-virtual-machine/tree/HEAD)
-
-**Merged pull requests:**
-
-- Prepare for `v2`, bump `azurerm` provider to `v4`. [\#83](https://github.com/Azure/terraform-azurerm-virtual-machine/pull/83) ([lonegunmanb](https://github.com/lonegunmanb))
+## [2.0.0](https://github.com/TerraformFoundation/terraform-azurerm-virtual-machine/tree/2.0.0) (2024-11-13)
 
 
 
